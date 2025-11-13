@@ -25,7 +25,7 @@
 The intuitive upload interface where users can select and upload their video or audio files for analysis.
 
 <div align="center">
-    <img src="images/1.jpeg" alt="Landing Page - Upload Section" width="800"/>
+    <img src="images/1.png" alt="Landing Page - Upload Section" width="800"/>
     <p><em>Upload section with file input, format badges (MP4, AVI, MOV, MP3, WAV), and "Transcribe & Analyze" button</em></p>
 </div>
 
@@ -35,7 +35,7 @@ The intuitive upload interface where users can select and upload their video or 
 Comprehensive analysis dashboard showing the complete flow from transcript to summary, sentiment analysis, word analysis, and content analysis.
 
 <div align="center">
-    <img src="images/2.jpeg" alt="Analysis Flow Dashboard" width="800"/>
+    <img src="images/2.png" alt="Analysis Flow Dashboard" width="800"/>
     <p><em>Complete analysis pipeline: Transcript → Summary → Sentiment → Word Analysis → Content Analysis</em></p>
 </div>
 
@@ -45,7 +45,7 @@ Comprehensive analysis dashboard showing the complete flow from transcript to su
 Detailed sentiment analysis with confidence scores, emotional tone breakdown, and AI-generated summary with key points.
 
 <div align="center">
-    <img src="images/3.jpeg" alt="Sentiment Analysis and Summary" width="800"/>
+    <img src="images/3.png" alt="Sentiment Analysis and Summary" width="800"/>
     <p><em>Sentiment analysis with timeline visualization, sentiment scores, and summary metrics powered by Google Gemini AI</em></p>
 </div>
 
@@ -55,7 +55,7 @@ Detailed sentiment analysis with confidence scores, emotional tone breakdown, an
 Advanced word analysis including repeated words detection, filler words identification, and vocabulary quality metrics.
 
 <div align="center">
-    <img src="images/4.jpeg" alt="Words Analysis" width="800"/>
+    <img src="images/4.png" alt="Words Analysis" width="800"/>
     <p><em>Repeated words analysis, filler words detection, and vocabulary analysis with improvement suggestions</em></p>
 </div>
 
