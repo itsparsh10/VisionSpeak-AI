@@ -1,8 +1,6 @@
 <div align="center">
-   <h1>🎥 AI Video Transcriber - Advanced Analysis Platform</h1>
+   <h1> 👁️ VisionSpeak AI  - The Advanced Analysis Platform</h1>
 </div>
-
-<h1 align="center">🚀 AI-Powered Video & Audio Analysis Suite</h1>
 <h2 align="center">Advanced transcription, emotion detection, and presentation coaching platform</h2>
 
 ---
