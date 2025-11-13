@@ -7,23 +7,23 @@ This folder contains sequence screenshots/images for the VisionSpeak-AI applicat
 The following images are currently in this directory and are used in the main README.md:
 
 ### Image 1: Landing Page
-- **Filename**: `1.jpeg`
+- **Filename**: `1.png`
 - **Description**: Shows the landing page where users can upload their video/audio files
 - **Content**: Upload section with file input, format badges (MP4, AVI, MOV, MP3, WAV), and "Transcribe & Analyze" button
 
 ### Image 2: Analysis Flow Dashboard
-- **Filename**: `2.jpeg`
+- **Filename**: `2.png`
 - **Description**: Shows the complete analysis dashboard with flow from transcript to summary to sentiment to word analysis to content analysis
 - **Content**: Overview of the analysis pipeline showing how data flows through:
   - Transcript → Summary → Sentiment → Word Analysis → Content Analysis
 
 ### Image 3: Sentiment Analysis & Summary
-- **Filename**: `3.jpeg`
+- **Filename**: `3.png`
 - **Description**: Shows sentiment analysis with summary metrics
 - **Content**: Sentiment analysis section with confidence scores, emotional tone breakdown, and AI-generated summary with key points powered by Google Gemini AI
 
 ### Image 4: Words Analysis
-- **Filename**: `4.jpeg`
+- **Filename**: `4.png`
 - **Description**: Shows the words analysis section
 - **Content**: Repeated words analysis, filler words detection, and vocabulary analysis with improvement suggestions
 
