@@ -19,6 +19,58 @@
 
 ---
 
+## 📸 Application Screenshots
+
+### 🏠 **1. Landing Page - Upload Your Media**
+The intuitive upload interface where users can select and upload their video or audio files for analysis.
+
+<div align="center">
+    <img src="images/1.jpeg" alt="Landing Page - Upload Section" width="800"/>
+    <p><em>Upload section with file input, format badges (MP4, AVI, MOV, MP3, WAV), and "Transcribe & Analyze" button</em></p>
+</div>
+
+---
+
+### 📊 **2. Analysis Flow - Complete Dashboard**
+Comprehensive analysis dashboard showing the complete flow from transcript to summary, sentiment analysis, word analysis, and content analysis.
+
+<div align="center">
+    <img src="images/2.jpeg" alt="Analysis Flow Dashboard" width="800"/>
+    <p><em>Complete analysis pipeline: Transcript → Summary → Sentiment → Word Analysis → Content Analysis</em></p>
+</div>
+
+---
+
+### 💭 **3. Sentiment Analysis & Summary**
+Detailed sentiment analysis with confidence scores, emotional tone breakdown, and AI-generated summary with key points.
+
+<div align="center">
+    <img src="images/3.jpeg" alt="Sentiment Analysis and Summary" width="800"/>
+    <p><em>Sentiment analysis with timeline visualization, sentiment scores, and summary metrics powered by Google Gemini AI</em></p>
+</div>
+
+---
+
+### 🔤 **4. Words Analysis**
+Advanced word analysis including repeated words detection, filler words identification, and vocabulary quality metrics.
+
+<div align="center">
+    <img src="images/4.jpeg" alt="Words Analysis" width="800"/>
+    <p><em>Repeated words analysis, filler words detection, and vocabulary analysis with improvement suggestions</em></p>
+</div>
+
+---
+
+### 📈 **5. Content Analysis & AI Coaching**
+Comprehensive content analysis with quality metrics, and AI-powered presentation coaching featuring voice analysis, sentiment analysis, body language analysis, and personalized recommendations by Google Gemini AI.
+
+<div align="center">
+    <img src="images/5.png" alt="Content Analysis and AI Coaching" width="800"/>
+    <p><em>Advanced content analysis with overall strength metrics, growth potential, and AI presentation coach feedback including voice characteristics, sentiment insights, body language analysis, and actionable improvement suggestions</em></p>
+</div>
+
+---
+
 ## ✨ Key Features
 
 ### 🎙️ **Advanced Transcription**
@@ -41,7 +93,7 @@
 - **Pose & Movement Analysis** - MediaPipe-powered body language tracking
 - **Facial Emotion Recognition** - DeepFace integration for real-time emotion analysis
 - **Voice Characteristics** - Pitch, volume, and speech pattern analysis
-- **AI Presentation Coach** - Personalized feedback and improvement suggestions
+- **AI Presentation Coach** - **Powered by Google Gemini AI** - Comprehensive analysis combining voice characteristics, sentiment insights, body language metrics, and personalized improvement recommendations
 
 ### 🎵 **Advanced Audio Processing**
 - **Audio Feature Extraction** - Parselmouth/Praat integration for vocal analysis
@@ -225,7 +277,11 @@ python main.py
 ### 📊 **Analysis Dashboard**
 - **📝 Transcription Tab** - Full text with timestamps
 - **📈 Analytics Tab** - Sentiment, emotion, and quality metrics
-- **🎯 Coaching Tab** - Presentation feedback and tips
+- **🎯 AI Coaching Tab** - **Powered by Google Gemini AI** - Comprehensive presentation feedback combining:
+  - Voice analysis (pitch, volume, pauses, speaking patterns)
+  - Sentiment analysis (emotional tone and confidence scores)
+  - Body language analysis (eye contact, head movements, gestures, smiles)
+  - Personalized improvement suggestions and actionable recommendations
 - **📊 Visualizations** - Interactive charts and graphs
 - **💾 Export Options** - Download transcripts, reports, and data
 
@@ -315,6 +371,45 @@ sequenceDiagram
 - **👁️ Eye Contact** - Gaze direction and engagement
 - **🗣️ Voice Dynamics** - Pitch variation, speaking pace
 - **⏱️ Timing Analysis** - Pause patterns, speech rhythm
+
+### 🤖 **AI Presentation Coach - Powered by Google Gemini AI**
+Our advanced AI coaching system integrates multiple analysis dimensions to provide comprehensive presentation feedback:
+
+<div align="center">
+    <table>
+        <tr>
+            <th>📊 Analysis Component</th>
+            <th>🎯 What It Analyzes</th>
+            <th>💡 Output</th>
+        </tr>
+        <tr>
+            <td><strong>Voice Analysis</strong></td>
+            <td>Pitch range, volume levels, pause frequency, speaking patterns</td>
+            <td>Vocal delivery recommendations and improvement areas</td>
+        </tr>
+        <tr>
+            <td><strong>Sentiment Analysis</strong></td>
+            <td>Emotional tone, confidence scores, overall sentiment</td>
+            <td>Sentiment insights and emotional engagement metrics</td>
+        </tr>
+        <tr>
+            <td><strong>Body Language Analysis</strong></td>
+            <td>Eye contact, head movements, hand gestures, facial expressions</td>
+            <td>Body language scores and movement recommendations</td>
+        </tr>
+        <tr>
+            <td><strong>AI Recommendations</strong></td>
+            <td>Combined analysis of all metrics</td>
+            <td>Personalized, actionable improvement suggestions</td>
+        </tr>
+    </table>
+</div>
+
+**Key Features:**
+- **📈 Overall Assessment** - Comprehensive summary of presentation strengths and areas for improvement
+- **🎯 Data-Driven Insights** - Quantitative metrics for body language, voice, and engagement
+- **💬 Personalized Suggestions** - AI-generated recommendations tailored to your specific presentation style
+- **🔄 Continuous Improvement** - Track progress across multiple presentations
 
 ---
 
